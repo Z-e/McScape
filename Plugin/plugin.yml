@@ -1,0 +1,16 @@
+ name: MsCore
+ version: 1
+ description: Mine Scape
+ # Once lived a man named OUP
+ # He made a plugin and became OUPTASTIC
+ # Now he is SUPER OUP
+ author: Null
+ website: http://nulled.io/
+
+ main: oup.flcode.com.Main
+
+ commands:
+    McScape:
+      description: General information.
+    Mining:
+      description: Displays your mining skill.
